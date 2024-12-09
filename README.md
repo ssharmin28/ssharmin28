@@ -8,7 +8,7 @@ A Computer Science major at CUNY Queens College, interested in pursuing a career
 
 **Check out my Latest Project:**
 
-[UNICC: Development of an Open AI-enabled BOT Platform for UNECE] (https://github.com/lucyking140/ai-studio-unicc)
+[UNICC: Development of an Open AI-enabled BOT Platform for UNECE](https://github.com/lucyking140/ai-studio-unicc)
 
 This project aims to develop an AI-driven BOT platform powered by Large Language Models (LLMs). It allows users to efficiently extract information based on the UNECE PDF database. 
 
