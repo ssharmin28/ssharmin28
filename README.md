@@ -6,6 +6,7 @@ A Computer Science major at CUNY Queens College, interested in pursuing a career
   - Programming Languages: Java, Python, C++
   - Libraries and Tools: Pandas, scikit-learn, NumPy, seaborn, matplotlib, Jupyter Notebook, Google Colab
 
-**Contact Information** 
+**Contact Information:**
+
 [LinkedIn](https://www.linkedin.com/in/sadiasharmin16/)
 
