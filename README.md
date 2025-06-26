@@ -3,7 +3,7 @@ A Computer Science major at CUNY Queens College, interested in pursuing a career
 
 **Tech Stack:**
 
-  - Programming Languages: Java, Python, C++
+  - Programming Languages: SQL, Python, Java, C++
   - Libraries and Tools: Pandas, scikit-learn, NumPy, seaborn, matplotlib, Jupyter Notebook, Google Colab
 
 **Check out my Latest Project:**
